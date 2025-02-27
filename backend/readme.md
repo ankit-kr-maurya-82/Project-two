@@ -7,3 +7,7 @@ npm i nodemon
 npm i mongoose express dotenv
 
 npm i cookie-parser cors
+
+npm i @types/mongoose-aggregate-paginate-v2
+npm i bcrypt
+npm i jsonwebtoken
