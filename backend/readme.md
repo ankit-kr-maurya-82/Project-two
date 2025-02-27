@@ -5,3 +5,5 @@
 
 npm i nodemon
 npm i mongoose express dotenv
+
+npm i cookie-parser cors
